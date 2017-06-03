@@ -1,4 +1,5 @@
-@import url(https://fonts.googleapis.com/css?family=PT+Serif:400italic);
+@import url('https://fonts.googleapis.com/css?family=Barrio');
+@import url('https://fonts.googleapis.com/css?family=Courgette');
 body {
 background-image:url("https://source.unsplash.com/category/nature/1600x900");
 background-repeat:no-repeat;
@@ -7,7 +8,7 @@ width:auto;
 
 }
 h1{
-font-family: 'PT Serif', serif;
+font-family:'Barrio', cursive;;
 font-size:2.5em;
 text-align:center;
 color:#fff;
@@ -22,14 +23,15 @@ padding:19% 15% 0 15%;
 }
 
 #quoteblock{
-font-family: 'PT Serif', serif;
+font-family:'Barrio', cursive;
 text-shadow:2px 2px 3px rgba(150,150,150,0.75);
-font-size:2em;
+font-size:4em;
 }
 
 #author{
-font-family: 'PT Serif', serif;
-text-align:center;
+font-family:'Courgette', cursive;
+text-align:right;
+font-size:2em;
 color:#fff;
 text-shadow:2px 2px 3px rgba(150,150,150,0.75);
 }
